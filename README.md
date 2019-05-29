@@ -3,15 +3,16 @@
 # Contenido
 El proyecto cuenta con 1 clase en el lenguaje python:
 
-    inicio, clase que analiza el lexico
+    lexer, clase que analiza el lexico con libreria ply
+    lectura_archivo, clase que lee y escribe en archivos
 
 Además tiene 2 archivos .txt:
    
     expresiones.txt, archivo que contiene varias expresiones aritmeticas en notacion PosOrden.
-    resultado.txt, archivo que guardara los resultados de las operaciones aritmeticas.
+    resultados.txt, archivo que guardará los resultados de las operaciones aritmeticas.
 
 # Ejecución del proyecto
-En la clase inicio, dentro de la inicio.py se crea una instancia a la misma clase por lo cual basta correrla. El resultado del analisis lexico del archivo expresiones.txt se puede ver en el archivo resultado.txt.
+Ejecutar la clase lexer y observar el resultado en el archivo resultados.txt.
 
 # Construido con:
 El lenguaje Python
