@@ -18,7 +18,7 @@ Ejecutar la clase lexer y observar el resultado en el archivo resultados.txt.
 El lenguaje Python
 
 # Autores
-Christian Camilo Ibañez Torres - 20141020116
+Christian Ibañez
 
-Vanessa López Fuquen - 20152020725
+Vanessa López
 
